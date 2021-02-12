@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JRGuchi
+- 👀 I’m interested in commercial real estate, equities, fixed income, derivatives, macroeconomics, blockchain, data science, and sushi
+- 🌱 Noob learning Selenium, BeautifulSoup, Pandas, Numpy, MatPlotLib, Dash, API integrations, and Git
+- 😃 Feel free to reach out!
+  - 📫 Twitter: @jamesikeguchi
+  - 📫 LinkedIn: linkedin.com/in/jamesikeguchi
